@@ -1,4 +1,4 @@
-<img width="1917" height="1030" alt="Screenshot 2026-02-28 035425" src="https://github.com/user-attachments/assets/4ea3710b-8538-4b32-8ed4-bf58b5591a33" /># Cipher Screen Recorder
+# Cipher Screen Recorder
 <img width="1917" height="1030" alt="Screenshot 2026-02-28 035425" src="https://github.com/user-attachments/assets/cb4d32f8-eadb-4848-a269-61e57f221e75" />
 
 Windows desktop screen recorder built with Python, PyQt6, OpenCV, and FFmpeg.
